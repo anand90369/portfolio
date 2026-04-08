@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/anand90369/portfolio",
+  "homepage": "https://anand90369.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

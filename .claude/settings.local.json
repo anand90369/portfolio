@@ -6,7 +6,8 @@
       "Bash(npm run:*)",
       "Bash(npx vite:*)",
       "Read(//dev/**)",
-      "Bash(taskkill //F //IM node.exe)"
+      "Bash(taskkill //F //IM node.exe)",
+      "Bash(gh api:*)"
     ]
   }
 }

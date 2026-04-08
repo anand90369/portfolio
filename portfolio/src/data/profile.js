@@ -1,10 +1,10 @@
 export const profile = {
-  name: 'Alex Chen',
+  name: 'Ananda Kumar Bokka',
   roles: [
-    'Full-Stack Developer',
+    'Full-Stack AI & Automation | AI Agents, RAG Pipeline , LangGraph',
     'AI Enthusiast',
     'Open Source Contributor',
-    'UI/UX Designer',
+    'Prompt Engineer',
   ],
   tagline: 'I build modern web experiences powered by clean code and smart AI.',
   email: 'alex.chen.dev@gmail.com',
