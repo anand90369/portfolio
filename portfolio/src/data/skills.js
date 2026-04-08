@@ -1,0 +1,50 @@
+export const skillCategories = [
+  {
+    title: 'Frontend',
+    icon: '🎨',
+    skills: [
+      { name: 'React', level: 95 },
+      { name: 'TypeScript', level: 90 },
+      { name: 'Next.js', level: 85 },
+      { name: 'Tailwind CSS', level: 92 },
+      { name: 'Framer Motion', level: 80 },
+      { name: 'Vue.js', level: 70 },
+    ],
+  },
+  {
+    title: 'Backend',
+    icon: '🔧',
+    skills: [
+      { name: 'Node.js', level: 90 },
+      { name: 'Python', level: 88 },
+      { name: 'PostgreSQL', level: 85 },
+      { name: 'MongoDB', level: 82 },
+      { name: 'GraphQL', level: 78 },
+      { name: 'Redis', level: 75 },
+    ],
+  },
+  {
+    title: 'AI & ML',
+    icon: '🤖',
+    skills: [
+      { name: 'Claude API', level: 88 },
+      { name: 'OpenAI API', level: 85 },
+      { name: 'LangChain', level: 80 },
+      { name: 'TensorFlow', level: 65 },
+      { name: 'Prompt Engineering', level: 92 },
+      { name: 'RAG Pipelines', level: 78 },
+    ],
+  },
+  {
+    title: 'DevOps & Tools',
+    icon: '🚀',
+    skills: [
+      { name: 'Docker', level: 85 },
+      { name: 'AWS', level: 80 },
+      { name: 'CI/CD', level: 88 },
+      { name: 'Git', level: 95 },
+      { name: 'Linux', level: 82 },
+      { name: 'Vercel', level: 90 },
+    ],
+  },
+]
